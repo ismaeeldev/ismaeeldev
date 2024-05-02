@@ -12,7 +12,8 @@ I'm a web developer passionate about learning frameworks and backend technologie
 
 Here are some projects I'm proud of:
 
-- Netfix  -- (https://github.com/ismaeeldev/Netflix-project) 
+- Netfix  --[Netflix.com](https://ismaeeldev.github.io/Netflix/index)
+- Hydra  -- [Hydra.com](https://ismaeeldev.github.io/Hydra/)) 
 
 ## Skills
 
