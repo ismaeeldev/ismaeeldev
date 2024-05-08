@@ -32,7 +32,6 @@ Here are some projects I'm proud of:
     <a href="https://instagram.com/https://www.instagram.com/_just_ismaeel/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="https://www.instagram.com/_just_ismaeel/" height="30" width="40" /></a>
-- LinkedIn: [Muhammad Ismaeel](https://www.linkedin.com/in/ismaeeldev786/)
-- Website: [Web Innovate Studio](https://webinnovatestudio.wixsite.com/web-innovate-studio)
+          
 
 Thanks for visiting my GitHub profile! 😄
