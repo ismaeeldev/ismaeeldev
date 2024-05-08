@@ -32,9 +32,9 @@ Here are some projects I'm proud of:
     <a href="https://instagram.com/https://www.instagram.com/_just_ismaeel/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="https://www.instagram.com/_just_ismaeel/" height="30" width="40" /></a>
+
           
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ismaeeldev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br />
-![](https://github-readme-streak-stats.herokuapp.com/?user=ismaeeldev&theme=dark&hide_border=false)<br />
 Thanks for visiting my GitHub profile! 😄
