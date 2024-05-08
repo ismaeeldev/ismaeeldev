@@ -21,6 +21,7 @@ Here are some projects I'm proud of:
 
 ## Connect with Me
 [![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][4]
+[4]: https://www.linkedin.com/in/username
 - LinkedIn: [Muhammad Ismaeel](https://www.linkedin.com/in/ismaeeldev786/)
 - Website: [Web Innovate Studio](https://webinnovatestudio.wixsite.com/web-innovate-studio)
 
