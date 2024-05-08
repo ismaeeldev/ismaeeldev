@@ -20,6 +20,18 @@ Here are some projects I'm proud of:
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,atom,cpp,nodejs)](https://skillicons.dev)
 
 ## Connect with Me
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ismaeeldev786/" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="https://www.linkedin.com/in/ismaeeldev786/" height="30" width="40" /></a>
+    <a href="https://fb.com/https://www.facebook.com/m.ismaeel.developer" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+            alt="https://www.facebook.com/m.ismaeel.developer" height="30" width="40" /></a>
+    <a href="https://twitter.com/ismaeel_dev" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+            alt="ismaeel_dev" height="30" width="40" /></a>
+    <a href="https://instagram.com/https://www.instagram.com/_just_ismaeel/" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+            alt="https://www.instagram.com/_just_ismaeel/" height="30" width="40" /></a>
 - LinkedIn: [Muhammad Ismaeel](https://www.linkedin.com/in/ismaeeldev786/)
 - Website: [Web Innovate Studio](https://webinnovatestudio.wixsite.com/web-innovate-studio)
 
