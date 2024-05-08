@@ -17,7 +17,7 @@ Here are some projects I'm proud of:
 
 ## Skills
 
-- Programming Languages:[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 ## Connect with Me
 
