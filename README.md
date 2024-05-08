@@ -17,7 +17,7 @@ Here are some projects I'm proud of:
 
 ## Skills
 
-- Programming Languages: HTML, CSS, JavaScript, Node.js, React.js
+- Programming Languages:  (https://skillicons.dev/icons?i=js,html,css,cpp,nodejs,atom,wasm)](https://skillicons.dev)
 
 ## Connect with Me
 
