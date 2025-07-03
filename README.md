@@ -29,13 +29,13 @@
 
 ### MERN Stack Applications
 - **Cafe Fresco Dashboard** - Comprehensive restaurant management system with order tracking and analytics  
-  [Live Demo](https://cafe-fresco-dashboard.vercel.app/) | [GitHub](#)
+  [Live Demo](https://cafe-fresco-dashboard.vercel.app/) | [GitHub](https://github.com/ismaeeldev/cafeFresco-dashboard)
 
 - **Genix Gym** - Full-featured gym management system for member tracking and scheduling  
-  [Live Demo](#) | [GitHub](#)
+  [Live Demo](https://github.com/ismaeeldev/Genix-Gym) | [GitHub](https://github.com/ismaeeldev/Genix-Gym)
 
 - **City Insight** - Dashboard for managing and publishing news/articles  
-  [Live Demo](https://city-insight-sigma.vercel.app/) | [GitHub](#)
+  [Live Demo](https://city-insight-sigma.vercel.app/) | [GitHub](https://github.com/ismaeeldev/CityInsight)
 
 ## GitHub Stats
 
