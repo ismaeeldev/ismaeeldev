@@ -1,40 +1,52 @@
 # Hi there, I'm Muhammad Ismaeel! 👋
 
-I'm a web developer passionate about learning frameworks and backend technologies. Welcome to my GitHub profile!
+🚀 MERN Stack Developer | Blockchain Enthusiast | Open Source Contributor
 
 ## About Me
 
-- 🔭 I’m currently learning Node.js and React.js for building dynamic web applications.
-- 💬 Ask me about HTML, CSS, JavaScript, Node.js, and React.js.
-- 📫 How to reach me: m.ismaeel.developer@gmail.com
+- 🔭 I’m currently expanding my expertise in **MERN stack (MongoDB, Express.js, React.js, Node.js)** and exploring **blockchain development**
+- 🌱 Learning **Solidity, Web3.js, and decentralized application (DApp) development**
+- 💡 Passionate about building scalable web applications and solving complex problems
+- 💬 Ask me about **JavaScript, React, Node.js, or anything web development!**
+- 📫 How to reach me: [m.ismaeel.developer@gmail.com](mailto:m.ismaeel.developer@gmail.com)
+- ⚡ Fun fact: I believe the best way to learn is by building and breaking things
 
-## Projects
+## Tech Stack
 
-Here are some projects I'm proud of:
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,nextjs,tailwind,styledcomponents)](https://skillicons.dev)
 
-- Portfolio  --[Portfolio.com](https://ismaeeldev.netlify.app/)
-- Hydra  -- [Hydra.com ](https://ismaeeldev.github.io/Hydra/)
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,graphql,firebase)](https://skillicons.dev)
 
-## Skills
+### Blockchain & Others
+[![My Skills](https://skillicons.dev/icons?i=solidity,web3,git,github,aws,linux)](https://skillicons.dev)
 
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,atom,cpp,nodejs)](https://skillicons.dev)
+## Featured Projects
 
-## Connect with Me
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ismaeeldev786/" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="https://www.linkedin.com/in/ismaeeldev786/" height="30" width="40" /></a>
-    <a href="https://fb.com/https://www.facebook.com/m.ismaeel.developer" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="https://www.facebook.com/m.ismaeel.developer" height="30" width="40" /></a>
-    <a href="https://twitter.com/ismaeel_dev" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="ismaeel_dev" height="30" width="40" /></a>
-    <a href="https://instagram.com/https://www.instagram.com/_just_ismaeel/" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="https://www.instagram.com/_just_ismaeel/" height="30" width="40" /></a>
+### MERN Stack Applications
+- **E-commerce Platform** - Full-featured online store with payment integration [Live Demo](#) | [GitHub](#)
+- **Task Management System** - JIRA-like project management tool [Live Demo](#) | [GitHub](#)
 
-          
+### Blockchain Projects
+- **NFT Marketplace** - Ethereum-based NFT trading platform (Work in Progress)
+- **Crypto Wallet Tracker** - Portfolio management for crypto assets
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ismaeeldev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br />
-Thanks for visiting my GitHub profile! 😄
+### Open Source Contributions
+- Contributed to [Project Name] - Brief description of contribution
+- Maintainer of [Library Name] - Brief description
+
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=ismaeeldev&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ismaeeldev&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaeeldev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## Let's Connect!
+
+I'm always open to collaborations, interesting projects, or just a good tech discussion!
+
+<a href="https://linkedin.com/in/ismaeeldev786" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://twitter.com/ismaeel_dev" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="mailto:m.ismaeel.developer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://ismaeeldev.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white"></a>
