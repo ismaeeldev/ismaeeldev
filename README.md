@@ -20,21 +20,22 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,graphql,firebase)](https://skillicons.dev)
 
 ### Blockchain & Others
-[![My Skills](https://skillicons.dev/icons?i=solidity,web3,git,github,aws,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=solidity,git,github,aws,linux)](https://skillicons.dev)
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify)](https://skillicons.dev)
 
 ## Featured Projects
 
 ### MERN Stack Applications
-- **E-commerce Platform** - Full-featured online store with payment integration [Live Demo](#) | [GitHub](#)
-- **Task Management System** - JIRA-like project management tool [Live Demo](#) | [GitHub](#)
+- **Cafe Fresco Dashboard** - Comprehensive restaurant management system with order tracking and analytics  
+  [Live Demo](https://cafe-fresco-dashboard.vercel.app/) | [GitHub](#)
 
-### Blockchain Projects
-- **NFT Marketplace** - Ethereum-based NFT trading platform (Work in Progress)
-- **Crypto Wallet Tracker** - Portfolio management for crypto assets
+- **Genix Gym** - Full-featured gym management system for member tracking and scheduling  
+  [Live Demo](#) | [GitHub](#)
 
-### Open Source Contributions
-- Contributed to [Project Name] - Brief description of contribution
-- Maintainer of [Library Name] - Brief description
+- **City Insight** - Dashboard for managing and publishing news/articles  
+  [Live Demo](https://city-insight-sigma.vercel.app/) | [GitHub](#)
 
 ## GitHub Stats
 
