@@ -7,7 +7,7 @@
 - 🔭 I'm focused on building scalable web applications using **TypeScript**, **Next.js**, **React**, and modern backend stacks.
 - 🌱 Currently deepening skills in **Neon (Postgres)**, **tRPC**, **NestJS**, and building LLM-based apps using **LangChain / LangGraph / LangSmith**.
 - 💡 I enjoy solving real problems by combining clean frontend experiences with reliable, well-architected backends.
-- 💬 Ask me about **TypeScript, React, Next.js, Node/NestJS, tRPC**, or building LLM-powered applications.
+- 💬 Ask me about **TypeScript, React, Next.js, Node/NestJS, ExpressJS, tRPC**, or building LLM-powered applications.
 - 📫 Reach me: [m.ismaeel.developer@gmail.com](mailto:m.ismaeel.developer@gmail.com)
 - ⚡ Fun fact: I learn fastest by building, breaking, and rebuilding things.
 
@@ -17,7 +17,7 @@
 
 
 ### Backend & Databases
-![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,trpc,mongodb,postgres)
+![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,neon,mongodb,postgres)
 
 
 > **Note:** I work with relational stores (Neon/Postgres) and NoSQL (MongoDB) depending on product needs.
