@@ -1,29 +1,41 @@
 # Hi there, I'm Muhammad Ismaeel! 👋
 
-🚀 MERN Stack Developer | Blockchain Enthusiast | Open Source Contributor
+🚀 **Full‑Stack Developer (MERN, TypeScript, Next.js) | LLM Apps & Backend Enthusiast**
 
-## About Me
+### About Me
 
-- 🔭 I’m currently expanding my expertise in **MERN stack (MongoDB, Express.js, React.js, Node.js)** and exploring **blockchain development**
-- 🌱 Learning **Solidity, Web3.js, and decentralized application (DApp) development**
-- 💡 Passionate about building scalable web applications and solving complex problems
-- 💬 Ask me about **JavaScript, React, Node.js, or anything web development!**
-- 📫 How to reach me: [m.ismaeel.developer@gmail.com](mailto:m.ismaeel.developer@gmail.com)
-- ⚡ Fun fact: I believe the best way to learn is by building and breaking things
+- 🔭 I'm focused on building scalable web applications using **TypeScript**, **Next.js**, **React**, and modern backend stacks.
+- 🌱 Currently deepening skills in **Neon (Postgres)**, **tRPC**, **NestJS**, and building LLM-based apps using **LangChain / LangGraph / LangSmith**.
+- 💡 I enjoy solving real problems by combining clean frontend experiences with reliable, well-architected backends.
+- 💬 Ask me about **TypeScript, React, Next.js, Node/NestJS, tRPC**, or building LLM-powered applications.
+- 📫 Reach me: [m.ismaeel.developer@gmail.com](mailto:m.ismaeel.developer@gmail.com)
+- ⚡ Fun fact: I learn fastest by building, breaking, and rebuilding things.
 
-## Tech Stack
 
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,nextjs,tailwind,styledcomponents)](https://skillicons.dev)
+![Frontend](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,styledcomponents)
 
-### Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,graphql,firebase)](https://skillicons.dev)
 
-### Blockchain & Others
-[![My Skills](https://skillicons.dev/icons?i=solidity,git,github,aws,linux)](https://skillicons.dev)
+### Backend & Databases
+![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,trpc,mongodb,postgres)
 
-### Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify)](https://skillicons.dev)
+
+> **Note:** I work with relational stores (Neon/Postgres) and NoSQL (MongoDB) depending on product needs.
+
+
+### LLM / AI Frameworks
+
+
+![LangChain](https://img.shields.io/badge/LangChain-%20-%23007ACC?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-%20-%23007ACC?style=for-the-badge)
+![LangSmith](https://img.shields.io/badge/LangSmith-%20-%23007ACC?style=for-the-badge)
+
+
+### Tools & Workflow
+![Tools](https://skillicons.dev/icons?i=vscode,git,github,vercel,netlify)
+
+
+Also actively using: **Cursor AI**, **Tray AI**, **VS Code** extensions, and modern CI/CD.
 
 ## Featured Projects
 
