@@ -17,7 +17,7 @@
 
 
 ### Backend & Databases
-![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,neon,mongodb,postgres)
+![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres)
 
 
 > **Note:** I work with relational stores (Neon/Postgres) and NoSQL (MongoDB) depending on product needs.
