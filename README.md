@@ -40,20 +40,22 @@ Also actively using: **Cursor AI**, **Tray AI**, **VS Code** extensions, and mod
 ## Featured Projects
 
 ### MERN Stack Applications
-- **ReadLess Ai** -  Convert lengthy PDFs into concise, easy-to-understand summaries
+
+- **ReadLess AI** – AI-powered tool to convert lengthy PDFs and documents into concise, easy-to-understand summaries.  
   [Live Demo](https://read-less-ai.netlify.app/) | [GitHub](https://github.com/ismaeeldev/ReadLess-AI)
   
-- **NEXA Ai** -  NEXA is a Ai agent for provding meeting functionality with Ai .
+- **NEXA AI** – Smart AI agent for real-time meeting management, providing intelligent responses and voice interaction during meetings.  
   [Live Demo](https://github.com/ismaeeldev/Nexa-Ai/) | [GitHub](https://github.com/ismaeeldev/Nexa-Ai)
   
-- **Cafe Fresco Dashboard** - Comprehensive restaurant management system with order tracking and analytics  
+- **Cafe Fresco Dashboard** – Comprehensive restaurant management system with order tracking, analytics, and performance insights.  
   [Live Demo](https://cafe-fresco-dashboard.vercel.app/) | [GitHub](https://github.com/ismaeeldev/cafeFresco-dashboard)
 
-- **Genix Gym** - Full-featured gym management system for member tracking and scheduling  
+- **Genix Gym** – Full-featured gym management system for member tracking, scheduling, and progress monitoring.  
   [Live Demo](https://github.com/ismaeeldev/Genix-Gym) | [GitHub](https://github.com/ismaeeldev/Genix-Gym)
 
-- **City Insight** - Dashboard for managing and publishing news/articles  
+- **City Insight** – Dashboard platform for managing, curating, and publishing news articles with analytics.  
   [Live Demo](https://city-insight-sigma.vercel.app/) | [GitHub](https://github.com/ismaeeldev/CityInsight)
+
 
 ## GitHub Stats
 
