@@ -5,7 +5,7 @@
 ### About Me
 
 - 🔭 I'm focused on building scalable web applications using **TypeScript**, **Next.js**, **React**, and modern backend stacks.
-- 🌱 Currently deepening skills in **Neon (Postgres)**, **Supabase** , **Firebase** **tRPC**, **NestJS**, and building LLM-based apps using **LangChain / LangGraph / LangSmith**.
+- 🌱 Currently deepening skills in **Neon (Postgres)**, **Supabase** , **Firebase**, **tRPC**, **NestJS**, and building LLM-based apps using **LangChain / LangGraph / LangSmith**.
 - 💡 I enjoy solving real problems by combining clean frontend experiences with reliable, well-architected backends.
 - 💬 Ask me about **TypeScript, React, Next.js, Node/NestJS, ExpressJS, tRPC**, or building LLM-powered applications.
 - 📫 Reach me: [m.ismaeel.developer@gmail.com](mailto:m.ismaeel.developer@gmail.com)
